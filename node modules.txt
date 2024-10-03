@@ -1,0 +1,32 @@
+//Fronted-ui
+
+npm install tailwindcss daisyui framer-motion
+npm install autoprefixer postcss
+npm install react-router-dom
+npm install react react-dom
+
+npm install react-icons
+npm install axios
+npm install @headlessui/react
+npm install react-tooltip
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+npm install react-masonry-css
+npm install jspdf jspdf-autotable
+
+
+
+
+
+//tailwind 
+
+npx tailwindcss init -p
+
+
+//
+
+//Backend
+
+npm install express cors mongoose dotenv
+npm install mongodb@latest
+npm install node-schedule
+npm install nodemailer
