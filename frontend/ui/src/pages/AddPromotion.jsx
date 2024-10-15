@@ -133,9 +133,9 @@ export const AddPromotion = () => {
                   className="select select-bordered w-full text-lg p-4 rounded-md shadow-md focus:ring-blue-500 focus:border-blue-500 transition-all duration-200"
                 >
                   <option value="">Select Distributor</option>
-                  <option value="Distributor A">Kavi</option>
-                  <option value="Distributor B">amindu</option>
-                  <option value="Distributor C">Navo</option>
+                  <option value="Distributor A">Wikcramacenha D M</option>
+                  <option value="Distributor B">Jayavardana A V</option>
+                  <option value="Distributor C">Navarathna W K D</option>
                 </select>
               ) : (
                 <input
